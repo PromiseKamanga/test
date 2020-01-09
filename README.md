@@ -9,4 +9,6 @@ with skipped lines
 
 Go Ducks! beat those Arizona Cats!
 
+OSU sucks!!
+
 Game is at 6. Can't wait!
