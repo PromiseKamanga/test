@@ -3,12 +3,4 @@ test repo
 
 go live to github
 
-now three new lines
-
-with skipped lines
-
-Go Ducks! beat those Arizona Cats!
-
-OSU sucks!!
-
-Game is at 6. Can't wait!
+now we are talking git and terminal.
