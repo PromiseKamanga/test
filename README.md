@@ -12,7 +12,7 @@ with skipped lines
 
 Go Ducks! beat those Arizona Cats!
 
-OSU sucks!!
+OSU sucks!! <- Oregon State University
 
 Looking forward to the game!
 
@@ -20,3 +20,4 @@ Game is at 6. Can't wait!
 
 I was supposed to call it "new-idea"
 
+OSU beat Arizona by 20!
